@@ -1,0 +1,1 @@
+<a class="navbar-logo" href="index.php"><img src="images/GC_ILAC_Horizontal_RGB-1024x341.png" width=30% alt="header logo"></a>
